@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Hamasi{
+    font-family: sans-serif;
+}
+
+.Navbar{
+    display: flex;
+}
+
+.Logo{
+    margin-left: 25px;
+    margin-top: 12px;
+    font-size: 24px;
+}
+
+.Alar{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.Alar a{
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+}
+
+.Login{
+    margin-left: 375px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+}
